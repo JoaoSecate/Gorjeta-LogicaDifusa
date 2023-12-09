@@ -1,4 +1,5 @@
 # Lógica Difusa - Seminário de Inteligência Artificial
+- https://docs.google.com/presentation/d/1i6e_sM9-mk6JTk05yNRI0EYTQgd9gDy4D7WNh7HSy0Q/edit?usp=sharing
 ## Exemplo: Gorjeta
 A partir de duas entrada (Qualidade da Comida e Qualidade do Serviço) utiliza um sistema de inferência difusa para gerar uma porcentagem do quanto dar de gorjeta.
 ## Referencia
